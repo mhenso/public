@@ -3,4 +3,4 @@
 Test public repository
 
 
-* [Project 1](https://mhenso.github.io/public/docs/otus300.nb.html) - Project one about
+* [Project 1](https://mhenso.github.io/public/docs/hfs.html) - Project one about
