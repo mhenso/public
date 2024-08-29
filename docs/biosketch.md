@@ -2,4 +2,4 @@
 
 Hendra is a Fulbright scholar from Indonesia. He is currently a PhD candidate at (Department of Biological Sciences)[https://www.depts.ttu.edu/biology/], Texas Tech University. He is interested in factors that shape microbial community in bats in degraded and unmodified habitats. His study focuses on three insectivore bat species that have different social dynamics (solitary, small group and colonial), and rely on insect communities as their prey. I am using community and gut-microbial ecology approaches to understand bat microbial assembly. My research also will employ structural equation model (SEM) to determine endogenous and exogenous processes that contribute in governing microbiome assembly. My research will help understanding microbiome community ecology in degraded environments. Previously, he earned a master science degree in marine and lacustrine science and management from an (inter-university master program)[https://oceansandlakes.chromis.be] (VUB, UGent and UAntwerp) in Belgium. He got his (Bachelor in Fisheries)[https://www.ipb.ac.id/page/tmp] from Bogor Agricultural University (IPB) in Indonesia.
 
-![](/docs/myself.jpg)
+![](/myself.jpg)
